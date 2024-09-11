@@ -1,0 +1,36 @@
+body{
+  background-color:rgb(25,25,25);
+  color:white;
+}
+.title{
+  color:white;
+  font-size:x-large;
+  font-weight:bold;
+}
+.movesImages{
+  height:40px;
+}
+.movesButtons{
+  border-color:white;
+  border-style:dashed;
+  border-radius:40px;
+  background-color:transparent;
+  width:80px;
+  height:80px;
+}
+.second-paragraph{
+  font-weight:bold;
+  font-family:arial;
+  font-size:25px;
+  margin-top:50px;
+}
+.paragraph{
+  margin-top:50px;
+}
+.third-paragraph{
+  margin-top:60px;
+}
+.reset-score,
+.auto-play-button{
+  padding:7px 15px;
+}
